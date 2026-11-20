@@ -1,0 +1,24 @@
+<div class="col-lg-6 m-auto my-4 px-3">
+  {{ERRORS}}
+  <form method="post" action="department.php">
+    <input type="hidden" name="action" value="{{ACTION}}">
+    {{ID_FIELD}}
+    <div class="card">
+      <div class="card-header {{HEADER_CLASS}}">
+        <h1 class="h3 text-white text-center mb-0">{{FORM_TITLE}}</h1>
+      </div>
+      <div class="card-body">
+        <div class="mb-3">
+          <label for="name" class="form-label">NAME:</label>
+          <input type="text" id="name" name="name" class="form-control" maxlength="100" value="{{NAME}}" required>
+        </div>
+        <div class="mb-3">
+          <label for="faculty" class="form-label">FACULTY:</label>
+          <input type="text" id="faculty" name="faculty" class="form-control" maxlength="100" value="{{FACULTY}}" required>
+        </div>
+        <button class="btn btn-success" type="submit">Submit</button>
+        <a class="btn btn-info" href="department.php">Cancel</a>
+      </div>
+    </div>
+  </form>
+</div>
