@@ -3,7 +3,7 @@
 > **Tugas Praktikum Modul 9 — Model-View-Controller (MVC)**
 > Mata kuliah Desain Pemrograman Berbasis Objek, Ilmu Komputer FPMIPA UPI
 
-Saya Sheva Desprianty Hermawan dengan NIM [2511645] mengerjakan Tugas Praktikum 7 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Sheva Desprianty Hermawan dengan NIM [2511645] mengerjakan Tugas Praktikum 8 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 ## Daftar Isi
 
